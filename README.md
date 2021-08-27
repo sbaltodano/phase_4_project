@@ -50,7 +50,7 @@ Current physicians are overworked, fatiqued, and burnt out trying to adequately 
 
 I built several CNN models, tweaking features such as the number of hidden layers, dropouts, the number of nodes in a hidden layer, and the dropout. My final CNN model finished with a 99% recall and a 90% accuracy. This neural networks accuracy is 3% higher than average.
 
-![](Visuals/final_model.png)
+![](Visuals/final_model)
 
 ## Conclusions
 My final model performed at a 99% recall with a 90% accuracy. As it currently stands, I do believe this neural network model could be deployed to help save the lives of more children with pneumonia by diagnosing patients earlier and pushing the more urgent cases to the front of the radiologists workload. 
