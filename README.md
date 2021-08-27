@@ -9,10 +9,10 @@ Samantha Baltodano
 * [Business Understanding](#business-understanding)
 * [Method](#method)
 * [Analysis](#analysis)
-* [Predictive Models](#Predictive Models)
-* [Conclusions](#Conclusions)
-* [Contributors](#Contributors)
-* [Project Structure](#Project Structure)
+* [Predictive Models](#predictive-models)
+* [Conclusions](#conclusions)
+* [Contributors](#contributors)
+* [Project Structure](#project-structure)
 
 
 ## Repository Links
