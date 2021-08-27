@@ -51,6 +51,7 @@ Current physicians are overworked, fatiqued, and burnt out trying to adequately 
 I built several CNN models, tweaking features such as the number of hidden layers, dropouts, the number of nodes in a hidden layer, and the dropout. My final CNN model finished with a 99% recall and a 90% accuracy. This neural networks accuracy is 3% higher than average.
 
 ![](Visuals/final_model)
+
 ![](Visuals/model_accuracy_recall)
 
 ## Conclusions
