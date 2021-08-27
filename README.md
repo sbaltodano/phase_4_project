@@ -1,8 +1,8 @@
-#  Identifying Pneumonia in Guangzhou Children Ages 0-5
+![](Visuals/guangzhou-medical-center1.png)
 
+#  Identifying Pneumonia in Guangzhou Children Ages 0-5
 Samantha Baltodano
 
-![](Visuals/guangzhou-medical-center.png)
 
 ## Table of Contents
 * [Overview](#overview)
