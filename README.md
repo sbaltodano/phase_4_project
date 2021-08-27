@@ -28,7 +28,7 @@ I have been employed by the Guangzhou Women and Children's Medical Center to ide
 
 Pneumonia is the single leading cause of death globally among children under 5 years of age accounting for over [800,000 deaths annually](https://ourworldindata.org/child-deaths-from-pneumonia). In China specifically, it is estimated that 2.5 million people a year are diagnosed and pneumonia is the cause of 17% of all child deaths in the nation. As alarming as these numbers seem, they draw added concern when you are aware that pneumonia mortality is completely preventable. This raised the question: why are so many infants dying from a curable illness? 
 
-![](Visuals/causes.png)
+![](Visuals/cause.png)
 
 
 
@@ -42,7 +42,7 @@ In dealing with type errors, i.e the balance between false negatives and false p
 ## Analysis
 Time is the biggest enemy to a child diagnosed with pneumonia. In severe case, the victim can die within hours, the lungs fill with fluid and the patient effectively drowns. The Guangzhou Women and Children's Medical Center must diagnose and treat these infants as quickly as possible to prevent unneccessary deaths. Unfortunately, China like so many other countries are facing a [severe physician shortage](https://www.projecthope.org/the-global-health-worker-shortage-10-numbers-to-note/02/2020/). It is estimated that by the end of the decade, in a world where we will need a sum total of 80 million physicians globally to properly treat the growing population, the worl will be short some 18 million. As it stands right now, China has approximately 2 physicians for every 1,000 members of their population. Depicted below is the physician to population ratio for China against the top 4 countries with the best ratios. Portugal and Denmark have around 2.5x more physicians to treat their populations than China does and those countries too are considered to be in a physician deficeit. 
 
-![](Visuals/doctors.png)
+![](Visuals/doctor.png)
 
 Current physicians are overworked, fatiqued, and burnt out trying to adequately treat the growing volume of patients. It is not enough to say that we need to increase the physician to population ratio when globally, the majority of countries are facing a similar struggle. Luckily the answer is simple, cheap, and has already been created: Artifical Intelligence. On average, machine learning disease and illness diagnoses classifiers are just as accurate as radiologists, accurately classifying patients 87% of the time comapred to the 86% accuracy of the human eye. This prompted me to build a machine learning classifier to diagnose patients under 5 as having or not having pneumonia. My modeling went as follows.
 
