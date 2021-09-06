@@ -44,7 +44,7 @@ Time is the biggest enemy to a child diagnosed with pneumonia. In severe case, t
 
 ![](Visuals/doctor.png)
 
-Current physicians are overworked, fatiqued, and burnt out trying to adequately treat the growing volume of patients. It is not enough to say that we need to increase the physician to population ratio when globally, the majority of countries are facing a similar struggle. Luckily the answer is simple, cheap, and has already been created: Artifical Intelligence. On average, machine learning disease and illness diagnoses classifiers are just as accurate as radiologists, accurately classifying patients 87% of the time comapred to the 86% accuracy of the human eye. This prompted me to build a machine learning classifier to diagnose patients under 5 as having or not having pneumonia. My modeling went as follows.
+Current physicians are overworked, fatigued, and burnt out trying to adequately treat the growing volume of patients. It is not enough to say that we need to increase the physician to population ratio when globally, the majority of countries are facing a similar struggle. Luckily the answer is simple, cheap, and has already been created: Artifical Intelligence. On average, machine learning disease and illness diagnoses classifiers are just as accurate as radiologists, accurately classifying patients 87% of the time comapred to the 86% accuracy of the human eye. This prompted me to build a machine learning classifier to diagnose patients under 5 as having or not having pneumonia. My modeling went as follows.
 
 ## Predictive Models
 
